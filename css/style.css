@@ -68,6 +68,9 @@ nav.links > a:hover {
   opacity: 0.6;
 }
 .copyright {
+  display: flex;
+  text-align: center;
+  height: 80px;
   color: dimgray;
   font-family: "Times New Roman", Times, serif;
 }
