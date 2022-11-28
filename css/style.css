@@ -1,7 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 header {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 400px;
   background-color: #777777;
+  background: url(https://kitchen.slotex.com/upload/iblock/a00/a0042643e3fe1861d162f20ef6bc9e34.jpg)
+    bottom no-repeat;
+  opacity: 0.8;
+  background-size: cover;
+}
+h1 {
+  color: #000000;
+  font-size: 6rem;
+  font-family: "Times New Roman", Times, serif;
+}
+footer {
+  padding-top: 20px;
+  padding-bottom: 70px;
+  text-align: center;
 }
