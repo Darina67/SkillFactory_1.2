@@ -21,6 +21,9 @@ h1 {
   background-color: #ffffff;
   padding: 20px 0 10px;
 }
+.new:nth-child(3n + 2) {
+  background: rgb(255, 241, 41);
+}
 article {
   width: 768px;
   margin: 0 auto 10px;
@@ -71,6 +74,7 @@ footer {
   height: 80px;
 }
 .copyright {
+  height: 50px;
   color: dimgray;
   text-align: center;
 }
