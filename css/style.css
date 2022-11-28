@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: "Times New Roman", Times, serif;
 }
 header {
   display: flex;
@@ -15,7 +16,6 @@ header {
 h1 {
   color: #000000;
   font-size: 6rem;
-  font-family: "Times New Roman", Times, serif;
 }
 .new {
   background-color: #ffffff;
@@ -67,10 +67,10 @@ nav.links > a {
 nav.links > a:hover {
   opacity: 0.6;
 }
-.copyright {
-  display: flex;
-  text-align: center;
+footer {
   height: 80px;
+}
+.copyright {
   color: dimgray;
-  font-family: "Times New Roman", Times, serif;
+  text-align: center;
 }
