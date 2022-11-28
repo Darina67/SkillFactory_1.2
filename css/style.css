@@ -79,3 +79,6 @@ footer {
   text-align: center;
 }
 /*псевдоэлемент?*/
+.new__title.new__title--after::after {
+  content: "New";
+}
