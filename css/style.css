@@ -19,12 +19,12 @@ h1 {
 }
 .new {
   background-color: #ffffff;
-  padding: 50px 0 32px;
+  padding: 20px 0 10px;
 }
 article {
   width: 768px;
-  margin: 0 auto 32px;
-  padding: 6px 15px;
+  margin: 0 auto 10px;
+  padding: 6px 5px;
   border-bottom: 1px solid rgb(66, 66, 66);
 }
 article a {
@@ -49,11 +49,11 @@ article a:hover {
 }
 nav {
   padding-top: 20px;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
   text-align: center;
 }
 nav.links {
-  margin-bottom: 50px;
+  margin-bottom: 15px;
 }
 nav.links > a {
   color: #777777;
@@ -65,7 +65,7 @@ nav.links > a {
   text-transform: uppercase;
 }
 nav.links > a:hover {
-  opacity: 0.2;
+  opacity: 0.6;
 }
 .copyright {
   color: dimgray;
